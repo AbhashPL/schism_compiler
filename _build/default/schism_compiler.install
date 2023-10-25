@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/schism_compiler/META"
+  "_build/install/default/lib/schism_compiler/dune-package"
+  "_build/install/default/lib/schism_compiler/opam"
+]
+bin: [
+  "_build/install/default/bin/schism_compiler"
+]

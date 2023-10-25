@@ -1,0 +1,8 @@
+(executable
+ (public_name schism_compiler)
+ (name main)
+ (libraries lib))
+
+(env
+  (dev
+    (flags (:standard -w -27-26-8))))
